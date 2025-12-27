@@ -1,1 +1,7 @@
-Your content here
+This file was created as part of a Git and version control exercise to demonstrate:
+- Repository creation and management
+- File creation and editing
+- Git commands: clone, add, commit, push
+- Collaboration using version control
+
+Created by: Asma (asmaazzoug26@gmail.com)
